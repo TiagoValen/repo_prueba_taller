@@ -9,3 +9,6 @@ for i in lista_2:
 lista_3 = [30,60,90]
 for i in lista_3:
     print(i/2)
+print("dfsfsf")
+print("hola hola")
+print(8*5)
