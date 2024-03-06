@@ -10,7 +10,7 @@ for i in lista:
 lista = [1,530]
 for i in lista:
     print(i*2)
-    print("hola") 
+    print("no hola") 
 
 lista = [16,20,30]
 for i in lista:
