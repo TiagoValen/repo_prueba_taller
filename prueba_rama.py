@@ -7,7 +7,7 @@ for i in lista:
     print(i/2) 
     print("hohahalahahah")
     
-lista = [1,54,22,30]
+lista = [1,530]
 for i in lista:
     print(i*2)
     print("hola") 
